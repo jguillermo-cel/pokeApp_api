@@ -21,7 +21,3 @@ Una vez instaladas las dependencias, puedes levantar el proyecto con el siguient
 npm run start
 ```
 
-Esto iniciará el proyecto y lo dejará listo para ser utilizado en el puerto 3002.
-
-https://github.com/jguillermo-cel/pokeApp_api
-
