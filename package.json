@@ -1,0 +1,16 @@
+{
+  "name": "pokeapp_api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server -w pokemon.json -p 3002",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Julio Celestino",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.2"
+  }
+}
